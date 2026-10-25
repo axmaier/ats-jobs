@@ -1,0 +1,88 @@
+{
+ "jobs": [
+  {
+   "id": "240d459b-696d-43eb-8497-fab3e56ecd9b",
+   "title": "Research Engineer",
+   "department": "Research",
+   "team": "Research",
+   "employmentType": "FullTime",
+   "location": "San Francisco",
+   "secondaryLocations": [],
+   "publishedAt": "2025-04-05T00:03:20.653+00:00",
+   "isListed": true,
+   "isRemote": null,
+   "workplaceType": null,
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "San Francisco"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b",
+   "applyUrl": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b/application",
+   "descriptionHtml": "<p style=\"min-height:1.5em\">By applying to this role, you will be considered for Research Engineer roles across all teams at OpenAI.</p><p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a Research Engineer here, you will be responsible for building AI syst",
+   "descriptionPlain": "By applying to this role, you will be considered for Research Engineer roles across all teams at OpenAI.\n\nAbout the Role\n\nAs a Research Engineer here, you will be responsible for building AI systems that can perform previously impossible tasks or achieve unprecedented levels of performance. We're lo"
+  },
+  {
+   "id": "7322d344-9325-4a92-8445-0a2c4e9272f8",
+   "title": "Research Engineer, Retrieval & Search, Applied Engineering",
+   "department": "Applied AI",
+   "team": "Applied AI Engineering",
+   "employmentType": "FullTime",
+   "location": "San Francisco",
+   "secondaryLocations": [],
+   "publishedAt": "2024-03-20T21:33:20.763+00:00",
+   "isListed": true,
+   "isRemote": null,
+   "workplaceType": null,
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "San Francisco"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/openai/7322d344-9325-4a92-8445-0a2c4e9272f8",
+   "applyUrl": "https://jobs.ashbyhq.com/openai/7322d344-9325-4a92-8445-0a2c4e9272f8/application",
+   "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>About the Team</strong></p><p style=\"min-height:1.5em\">We bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API.</p><p style=\"min-height:1.5em\">We seek to learn from deployment and distribute the benefits of AI, while ensuring tha",
+   "descriptionPlain": "About the Team\n\nWe bring OpenAI's technology to the world through products like ChatGPT and the OpenAI API.\n\nWe seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growt"
+  },
+  {
+   "id": "2560ed50-5535-42b8-b069-9ebc28ce7493",
+   "title": "Researcher, Safety Training",
+   "department": "Safety Systems",
+   "team": "Safety Systems",
+   "employmentType": "FullTime",
+   "location": "San Francisco",
+   "secondaryLocations": [
+    {
+     "location": "London, UK",
+     "address": {
+      "postalAddress": {
+       "addressRegion": "Greater London",
+       "addressCountry": "United Kingdom",
+       "addressLocality": "London"
+      }
+     }
+    }
+   ],
+   "publishedAt": "2023-05-25T04:06:29.356+00:00",
+   "isListed": true,
+   "isRemote": null,
+   "workplaceType": null,
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "San Francisco"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493",
+   "applyUrl": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493/application",
+   "descriptionHtml": "<h2><strong>About the Team<br /></strong></h2><p style=\"min-height:1.5em\">Safety Research at OpenAI is responsible for ensuring our most capable models can be safely deployed in the real world. The Safety Training team develops the research and engineering methods that shape model behavior through p",
+   "descriptionPlain": "ABOUT THE TEAM\n\n\nSafety Research at OpenAI is responsible for ensuring our most capable models can be safely deployed in the real world. The Safety Training team develops the research and engineering methods that shape model behavior through post-training, reinforcement learning, evaluation, and dep"
+  }
+ ],
+ "apiVersion": "1"
+}

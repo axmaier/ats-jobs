@@ -1,0 +1,375 @@
+{
+ "offset": 0,
+ "limit": 3,
+ "totalFound": 342,
+ "content": [
+  {
+   "id": "744000157563150",
+   "name": "Web Developer",
+   "uuid": "0de706b8-2961-4972-a818-7bad4220d031",
+   "jobAdId": "aee2f38d-7d2e-4104-951c-758b276c1367",
+   "defaultJobAd": false,
+   "refNumber": "REF31659O",
+   "company": {
+    "identifier": "Ubisoft2",
+    "name": "Ubisoft"
+   },
+   "releasedDate": "2026-10-23T20:24:37.498Z",
+   "location": {
+    "city": "Quebec City",
+    "region": "QC",
+    "country": "ca",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Quebec City, QC, Canada"
+   },
+   "industry": {
+    "id": "entertainment",
+    "label": "Entertainment"
+   },
+   "department": {
+    "id": "13847731",
+    "label": "Ubisoft"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "56c253c2e4b0cabf01d19d37",
+     "fieldLabel": "Organizational Unit",
+     "valueId": "21cb51c2-24e9-4088-8f65-52ce10f74bcf",
+     "valueLabel": "Montr\u00e9al studio"
+    },
+    {
+     "fieldId": "5bb3995c6d8bc56bc081b87d",
+     "fieldLabel": "Contract",
+     "valueId": "b5a86fc0-2681-4b3c-98b6-b73a4be23ef1",
+     "valueLabel": "Permanent"
+    },
+    {
+     "fieldId": "68e4ce369c52964c7125078a",
+     "fieldLabel": "Job Family",
+     "valueId": "43fccb43-cd89-4548-ab8b-24ab8e79edec",
+     "valueLabel": "Software Development"
+    },
+    {
+     "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "6904811aa8fa2db78e2ee2ed",
+     "fieldLabel": "Job  Function",
+     "valueId": "00698f79-7c89-487d-96db-9b54fd7e350a",
+     "valueLabel": "Software Development Online"
+    },
+    {
+     "fieldId": "691ca2ee342dfb96e5364508",
+     "fieldLabel": "Reference Job",
+     "valueId": "ec4ff2e6-3638-42e2-8bc1-fbe78593d5f4",
+     "valueLabel": "Software Developer Online Front End"
+    },
+    {
+     "fieldId": "6a158e3c77b1f5657b57af9d",
+     "fieldLabel": "Management Unit L0&1 (New)",
+     "valueId": "175a89b5-c614-43f6-bbfb-eebe36ed8c35",
+     "valueLabel": "TECHNOLOGIES & PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+     "fieldLabel": "Department",
+     "valueId": "13847731",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "ca",
+     "valueLabel": "Canada"
+    },
+    {
+     "fieldId": "5937f94ee4b0e8ba74f2a99c",
+     "fieldLabel": "Management Unit L2 (New)",
+     "valueId": "6b0d3b28-b32b-4768-bf90-7a45329f3d76",
+     "valueLabel": "PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "6904797c56f594d5ed50988d",
+     "fieldLabel": "Work flexibility",
+     "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+     "valueLabel": "Office-based"
+    },
+    {
+     "fieldId": "5def94650389ad3cc4be9d17",
+     "fieldLabel": "OU sub location (select when applicable)",
+     "valueId": "8282aec3-a755-4c6d-b27f-88e4344879af",
+     "valueLabel": "Canada"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000157563150",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157563799",
+   "name": "D\u00e9veloppeuse, d\u00e9veloppeur Web",
+   "uuid": "43becfd4-9d02-47ce-a10f-871340cea4c1",
+   "jobAdId": "71fe62c2-1d9c-4b5e-8f58-c4eb95de470b",
+   "defaultJobAd": false,
+   "refNumber": "REF31659O",
+   "company": {
+    "identifier": "Ubisoft2",
+    "name": "Ubisoft"
+   },
+   "releasedDate": "2026-10-23T20:23:01.245Z",
+   "location": {
+    "city": "Quebec City",
+    "region": "QC",
+    "country": "ca",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Quebec City, QC, Canada"
+   },
+   "industry": {
+    "id": "entertainment",
+    "label": "Entertainment"
+   },
+   "department": {
+    "id": "13847731",
+    "label": "Ubisoft"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "56c253c2e4b0cabf01d19d37",
+     "fieldLabel": "Organizational Unit",
+     "valueId": "21cb51c2-24e9-4088-8f65-52ce10f74bcf",
+     "valueLabel": "Montr\u00e9al studio"
+    },
+    {
+     "fieldId": "5bb3995c6d8bc56bc081b87d",
+     "fieldLabel": "Contract",
+     "valueId": "b5a86fc0-2681-4b3c-98b6-b73a4be23ef1",
+     "valueLabel": "Permanent"
+    },
+    {
+     "fieldId": "68e4ce369c52964c7125078a",
+     "fieldLabel": "Job Family",
+     "valueId": "43fccb43-cd89-4548-ab8b-24ab8e79edec",
+     "valueLabel": "Software Development"
+    },
+    {
+     "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "6904811aa8fa2db78e2ee2ed",
+     "fieldLabel": "Job  Function",
+     "valueId": "00698f79-7c89-487d-96db-9b54fd7e350a",
+     "valueLabel": "Software Development Online"
+    },
+    {
+     "fieldId": "691ca2ee342dfb96e5364508",
+     "fieldLabel": "Reference Job",
+     "valueId": "ec4ff2e6-3638-42e2-8bc1-fbe78593d5f4",
+     "valueLabel": "Software Developer Online Front End"
+    },
+    {
+     "fieldId": "6a158e3c77b1f5657b57af9d",
+     "fieldLabel": "Management Unit L0&1 (New)",
+     "valueId": "175a89b5-c614-43f6-bbfb-eebe36ed8c35",
+     "valueLabel": "TECHNOLOGIES & PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+     "fieldLabel": "Department",
+     "valueId": "13847731",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "ca",
+     "valueLabel": "Canada"
+    },
+    {
+     "fieldId": "5937f94ee4b0e8ba74f2a99c",
+     "fieldLabel": "Management Unit L2 (New)",
+     "valueId": "6b0d3b28-b32b-4768-bf90-7a45329f3d76",
+     "valueLabel": "PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "6904797c56f594d5ed50988d",
+     "fieldLabel": "Work flexibility",
+     "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+     "valueLabel": "Office-based"
+    },
+    {
+     "fieldId": "5def94650389ad3cc4be9d17",
+     "fieldLabel": "OU sub location (select when applicable)",
+     "valueId": "8282aec3-a755-4c6d-b27f-88e4344879af",
+     "valueLabel": "Canada"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000157563799",
+   "language": {
+    "code": "fr",
+    "label": "French",
+    "labelNative": "fran\u00e7ais"
+   }
+  },
+  {
+   "id": "744000157563224",
+   "name": "Web Developer",
+   "uuid": "646b413d-e010-47b9-a25f-3647886b53d8",
+   "jobAdId": "02167449-1af1-4c9d-bfb5-aad00a1d5b49",
+   "defaultJobAd": false,
+   "refNumber": "REF31659O",
+   "company": {
+    "identifier": "Ubisoft2",
+    "name": "Ubisoft"
+   },
+   "releasedDate": "2026-10-23T20:21:41.181Z",
+   "location": {
+    "city": "Montreal",
+    "region": "QC",
+    "country": "ca",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "45.5018869",
+    "longitude": "-73.56739189999999",
+    "fullLocation": "Montreal, QC, Canada"
+   },
+   "industry": {
+    "id": "entertainment",
+    "label": "Entertainment"
+   },
+   "department": {
+    "id": "13847731",
+    "label": "Ubisoft"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "56c253c2e4b0cabf01d19d37",
+     "fieldLabel": "Organizational Unit",
+     "valueId": "21cb51c2-24e9-4088-8f65-52ce10f74bcf",
+     "valueLabel": "Montr\u00e9al studio"
+    },
+    {
+     "fieldId": "5bb3995c6d8bc56bc081b87d",
+     "fieldLabel": "Contract",
+     "valueId": "b5a86fc0-2681-4b3c-98b6-b73a4be23ef1",
+     "valueLabel": "Permanent"
+    },
+    {
+     "fieldId": "68e4ce369c52964c7125078a",
+     "fieldLabel": "Job Family",
+     "valueId": "43fccb43-cd89-4548-ab8b-24ab8e79edec",
+     "valueLabel": "Software Development"
+    },
+    {
+     "fieldId": "56d1aa7ae4b0a07f777a4ef4",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "6904811aa8fa2db78e2ee2ed",
+     "fieldLabel": "Job  Function",
+     "valueId": "00698f79-7c89-487d-96db-9b54fd7e350a",
+     "valueLabel": "Software Development Online"
+    },
+    {
+     "fieldId": "691ca2ee342dfb96e5364508",
+     "fieldLabel": "Reference Job",
+     "valueId": "ec4ff2e6-3638-42e2-8bc1-fbe78593d5f4",
+     "valueLabel": "Software Developer Online Front End"
+    },
+    {
+     "fieldId": "6a158e3c77b1f5657b57af9d",
+     "fieldLabel": "Management Unit L0&1 (New)",
+     "valueId": "175a89b5-c614-43f6-bbfb-eebe36ed8c35",
+     "valueLabel": "TECHNOLOGIES & PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "58b7e4d0e4b09a6d37a0cd8b",
+     "fieldLabel": "Department",
+     "valueId": "13847731",
+     "valueLabel": "Ubisoft"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "ca",
+     "valueLabel": "Canada"
+    },
+    {
+     "fieldId": "5937f94ee4b0e8ba74f2a99c",
+     "fieldLabel": "Management Unit L2 (New)",
+     "valueId": "6b0d3b28-b32b-4768-bf90-7a45329f3d76",
+     "valueLabel": "PRODUCTION SERVICES"
+    },
+    {
+     "fieldId": "6904797c56f594d5ed50988d",
+     "fieldLabel": "Work flexibility",
+     "valueId": "ccb10278-8410-4710-b0e7-698fc2195139",
+     "valueLabel": "Office-based"
+    },
+    {
+     "fieldId": "5def94650389ad3cc4be9d17",
+     "fieldLabel": "OU sub location (select when applicable)",
+     "valueId": "8282aec3-a755-4c6d-b27f-88e4344879af",
+     "valueLabel": "Canada"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/Ubisoft2/postings/744000157563224",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}
